@@ -4,7 +4,6 @@ I'm **Stylianos Boursanidis**, a passionate Software Developer specializing in *
 
 ### 🔭 I’m currently working on
 - **Recipe Finder Web App** – A Blazor WebAssembly application that helps users discover and manage recipes, integrate shopping lists, and plan weekly meals.
-- **API Integration** – Working on integrating **REWE** and other grocery services for seamless ingredient shopping.
 
 ### 🌱 I’m currently learning
 - Advanced **Entity Framework Core** for efficient database management.
