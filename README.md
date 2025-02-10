@@ -23,7 +23,7 @@ I'm **Stylianos Boursanidis**, a passionate Software Developer specializing in *
 
 ### 📫 How to reach me
 - **Email:** [stelios.boursanidis@gmail.com](mailto:stelios.boursanidis@gmail.com)
-- **LinkedIn:** [linkedin.com/in/steliosboursanidis](https://www.linkedin.com/in/steliosboursanidis)
+- **LinkedIn:** [linkedin.com/in/stylianos-boursanidis](https://www.linkedin.com/in/stylianos-boursanidis/)
 - **GitHub:** [github.com/Stelioss4](https://github.com/Stelioss4)
 
 ### 🌐 My Work
